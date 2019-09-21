@@ -1,7 +1,7 @@
-Package: com.shiarahmed.snapchat
+Package: com.shiarahmed.apptools
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed
+Maintainer: Albasrawi
 Depends: mobilesubstrate
 Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
 Size: 6492
@@ -13,5 +13,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: Shiar Ahmed
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
-Name: Snapchat
+Name: Apptools
+SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+
+Package: com.opa334.safariplus
+Version: 1.7.5-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.opa334.safariplus
+Size: 964
+MD5sum: c88eab51ca984946b369d3de56dc17f6
+SHA1: 0DED27F6C9ECC9C43BC99BD4E549A88CD14C362F
+SHA256: 3C9B46E45701C3DB38C0992504683BE3B1B023C345D589801AF26938D3C2F5C2
+Section: Tweaks
+Description: Various enhancements to Safari!!
+Author: Albasrawi
+Depiction: https://github.com/AliAlbasrawi/cydia/depictions/?p=cydia
+Installed-Size: 84
+Name: safariplus
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
