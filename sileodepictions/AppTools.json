@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "DESCRIPTION"
+					"markdown": "To control the features of the device, go short and go to the application paths"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION",
+					"text": "1.5.1-3",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -35,32 +35,32 @@
 				},
 				{
 					"title": "License",
-					"text": "LICENSE",
+					"text": "free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "COMPATIBILTY",
+					"text": "ios 10 - 12.4",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER",
+					"text": "Albasrawi",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "MAINTAINER",
+					"text": "Ali Albasrawi",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Contact Developer",
-					"action": "mailto:EMAIL",
+					"action": "aliiosapp@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "mailto:EMAIL",
+					"action": "aliiosapp@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -78,7 +78,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION",
+					"title": "1.5.1-3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
