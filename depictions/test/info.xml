@@ -5,14 +5,14 @@
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>12.5</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>AppTools tweak</shortDescription>
 	<descriptionlist>
 		<description>AppTools To control the features of the device, go short and go to the application paths</description>
 		<description>Supports iOS 10.0 - 12.4</description>
