@@ -49,3 +49,18 @@ Section: Tweaks
 Description: test
 Author: Albasrawi <aliiosapp@gmail.com>
 Name: weathervane
+
+Package: com.Albasrawi.ccolor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: /debs/ccolor.deb
+Size: 23
+MD5sum: EB956FF21DBAB17DBBDA77B6D0CBC4E4
+SHA1: 574DEFA5F836348DC7C6465C01B091CC6AFDDA70
+SHA256: 46AAA85C891A0E597EAB3368D05C52180089DB70EBDE8308583DE4AF39DA699E
+Section: Tweaks
+Description: ccolor
+Author: Albasrawi <aliiosapp@gmail.com>
+Name: ccolor
